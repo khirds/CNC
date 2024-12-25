@@ -1,0 +1,74 @@
+[
+ {
+  "name": "gcode",
+  "glyph": "print",
+  "filename": "/testgcode.g",
+  "target": "ESP",
+  "class": "btn btn-info",
+  "index": 0
+ },
+ {
+  "name": "SetWork",
+  "glyph": "screenshot",
+  "filename": "/setwork.g",
+  "target": "ESP",
+  "class": "btn btn-warning",
+  "index": 1
+ },
+ {
+  "name": "G92",
+  "glyph": "star",
+  "filename": "/macro3.g",
+  "target": "ESP",
+  "class": "btn-default",
+  "index": 2
+ },
+ {
+  "name": "circle",
+  "glyph": "print",
+  "filename": "/testgcode_circle.g",
+  "target": "ESP",
+  "class": "btn btn-info",
+  "index": 3
+ },
+ {
+  "name": "rectangle",
+  "glyph": "print",
+  "filename": "/testgcode_rect.g",
+  "target": "ESP",
+  "class": "btn btn-info",
+  "index": 4
+ },
+ {
+  "name": "",
+  "glyph": "",
+  "filename": "",
+  "target": "",
+  "class": "",
+  "index": 5
+ },
+ {
+  "name": "",
+  "glyph": "",
+  "filename": "",
+  "target": "",
+  "class": "",
+  "index": 6
+ },
+ {
+  "name": "",
+  "glyph": "",
+  "filename": "",
+  "target": "",
+  "class": "",
+  "index": 7
+ },
+ {
+  "name": "",
+  "glyph": "",
+  "filename": "",
+  "target": "",
+  "class": "",
+  "index": 8
+ }
+]
